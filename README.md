@@ -22,7 +22,7 @@ Block Atlas supports more than 25 blockchains: Bitcoin, Ethereum, Binance Chain 
 
 #### NOTE
 
-Currently Block Atlas is under active development and is not well documented. If you still want to run it on your own or help to contribute, **please** pay attention that currently integration, nemwan, functional tests are not working locally without all endpoints. We are fixing that issue and soon you will be able to test all the stuff locally
+Currently Block Atlas is under active development and is not well documented. If you still want to run it on your own or help to contribute, **please** pay attention that currently integration, newman, functional tests are not working locally without all endpoints. We are fixing that issue and soon you will be able to test all the stuff locally
 
 Blockatlas allows to:
 
